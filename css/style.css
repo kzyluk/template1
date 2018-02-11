@@ -608,6 +608,8 @@ footer {
 
     .menu {
         width: 100%;
+        display: none;
+        height: auto;
     }
     
     nav {
